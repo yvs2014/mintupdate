@@ -239,7 +239,7 @@ msgstr "Використання «mintupdate-cli»"
 msgid ""
 "The Update Manager provides a command line utility called \"mintupdate-cli\"."
 msgstr ""
-"«Диспетчер оновлень» надає командно-рядкову службову програму під назвою "
+"Диспетчер оновлень надає командно-рядкову службову програму під назвою "
 "«mintupdate-cli»."
 
 #: usr/share/help/C/mintupdate/mintupdate-cli.page:23(p)
@@ -560,14 +560,14 @@ msgstr ""
 #: usr/lib/linuxmint/mintUpdate/mintUpdate.py:1842
 #: usr/lib/linuxmint/mintUpdate/mintUpdate.py:2341
 msgid "Update Manager"
-msgstr "«Диспетчер оновлень»"
+msgstr "Диспетчер оновлень"
 
 #: usr/share/help/C/mintupdate/index.page:20(p)
 msgid ""
 "The Update Manager provides your operating system with software and security "
 "updates."
 msgstr ""
-"«Диспетчер оновлень» надає вашій операційній системі оновлення програм й "
+"Диспетчер оновлень надає вашій операційній системі оновлення програм й "
 "оновлення безпеки."
 
 #: usr/share/help/C/mintupdate/index.page:22(p)
